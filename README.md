@@ -27,5 +27,5 @@ Antes de descargar y ejecutar el proyecto, asegúrate de tener instalado lo sigu
     git clone https://github.com/jhon1554/FraveMaxOK
 ```
 
-2. **Abrir y Ejecutar el Proyecto**: Abre el proyecto en tu IDE de Java preferido y ejecútalo.
+2. **Abrir y Ejecutar el Proyecto**: Abre el proyecto en tu IDE de Java preferido y ejecútalo(agregar mariadb2.3.0_7 y jcalendar 1.7 a las librerias).
 
